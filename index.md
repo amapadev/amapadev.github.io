@@ -1,4 +1,4 @@
-## Bem Vindo a Página da Comunidade Amapá Dev
+## Comunidade Amapá Dev
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 
