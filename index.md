@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Bem Vindo a Página da Comunidade Amapá Dev
 
-You can use the [editor on GitHub](https://github.com/amapadev/amapadev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meetups
 
-### Markdown
+- Dia 23 de nov. de 2019  [ **Introdução ao Airflow**](https://www.youtube.com/watch?v=Dik5-_NYAA0&feature=youtu.be)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Artigos
 
-# Header 1
-## Header 2
-### Header 3
+- [ **Configurando Laravel 6, Nginx e PostgreSQL com Docker**](https://medium.com/@vhsilva.ap/configurando-laravel-6-nginx-e-postgresql-com-docker-9ad29c53d5)
+- [ **Aplicativo de tarefas com ionic 3 e local storage**](https://medium.com/@juniorsnts123/aplicativo-de-tarefas-com-ionic-3-e-local-storage-cbaa9565046)
+- [ **Aplicativo de tarefas com ionic 3 e local storage**](https://medium.com/@juniorsnts123/aplicativo-de-tarefas-com-ionic-3-e-local-storage-cbaa9565046)
+- [ **Salvando seus arquivos no Amazon S3 com Laravel**](https://medium.com/@ediltondanniken/salvando-seus-arquivos-no-amazon-s3-com-laravel-f20d389c6185)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amapadev/amapadev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
