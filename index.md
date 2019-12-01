@@ -3,22 +3,9 @@
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 
 
-## Amapá Dev  💻🖥 estará marcando presença na expoTEC 2019, com Bate bapo:
-**Tema: Docker para desenvolvedores**
-Data e Hora: **30/11/2011 às 15:30h**
-Local: Sesi: R. Leopoldo Machado, 2749 - Trem, Sala de Aula 02: Startup e espaço desenvolvedores.
-
-## Participantes: 
-
-**Vitor Hugo**: Analista de Tecnologia da Informação no PRODAP. Tecnólogo em Sistemas para Internet, Pós-graduado em Docência do Ensino Superior, MBA em Engenharia de Software com Métodos, Pós-graduando em Big Data (Ciência de
-Dados) e Inteligência Artificial.
-
-**José Barbosa**: Desenvolvedor Full-Stack nas tecnologias: React.Js, Node.Js, React Native e Vue.Js, utilizando também outras stacks, atualmente focado na utilização ferramentas e práticas DevOps.
-
-
 
 ### Meetups
-
+- Dia 30 de nov. de 2019  [ **Docker para Desenvolvedores - #2**](https://www.youtube.com/watch?v=KJ22FQFD2S4)
 - Dia 23 de nov. de 2019  [ **Introdução ao Airflow**](https://www.youtube.com/watch?v=Dik5-_NYAA0&feature=youtu.be)
 
 
