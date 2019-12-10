@@ -16,8 +16,9 @@ Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Am
 - [ **Salvando seus arquivos no Amazon S3 com Laravel**](https://medium.com/@ediltondanniken/salvando-seus-arquivos-no-amazon-s3-com-laravel-f20d389c6185)
 
 ##### Regras
-  - 1º Em todos os grupos, canais ou redes sociais da comunidade, é **totalmente proibido publicidade de conteúdos pagos**;
-  - 2º Somente conteúdos gratuitos poderão ser divulgados, como eventos, cursos, publicações, livros, etc...
-  - 3º Caso haja desrespeito com a 1º regra, o responsável será banido para sempre dos grupos, canais ou redes sociais da comunidade Amapá Dev.
+  - 1º **Sempre adote bom senso**;
+  - 2º **Procure sempre falar de conteúdos referentes a desenvolvimento de software, ciência da computação, informática e afins.**;
+  
+  
 
 
