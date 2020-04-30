@@ -8,7 +8,7 @@ Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Am
 # Próximo Meetup 
 - Dia 31 de Abril de 2020 - **Python para Desenvolvedores** - [ **Link Em Breve aqui- #3**](#)
 
-![image](https://github.com/amapadev/amapadev.github.io/blob/master/img/python_para_devs.jpeg)
+![image](https://raw.githubusercontent.com/amapadev/amapadev.github.io/master/img/python_para_devs.jpeg)
 
 
 
