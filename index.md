@@ -6,6 +6,12 @@ Este é o ponto inicial para se unir e contribuir com código, artigos, meetups,
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 
+## Próximos Meetups 
+- Dia 31 de Abril de 2020 - **Python para Desenvolvedores** - [ **Link Em Breve- #3**](#)
+- Dia 08 de Maio de 2020 - **Scraping e WebScraping com Pythons** - [ **Link Em Breve- #4**](#)
+- Dia 08 de Maio de 2020 - **Introdução ao Jenkins** - [ **Link Em Breve- #4**](#)
+
+
 
 
 ### Meetups
