@@ -6,7 +6,7 @@ Este é o ponto inicial para se unir e contribuir com código, artigos, meetups,
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 # Próximo Meetup 
-- Dia 31 de Abril de 2020 - **Python para Desenvolvedores** - [ **Link Em Breve aqui- #3**](#)
+- Dia 31 de Abril de 2020 - [ **Python para Desenvolvedores #3 Clique aqui para participar** ](meet.google.com/nsk-mmkv-obv)
 
 ![image](https://raw.githubusercontent.com/amapadev/amapadev.github.io/master/img/python_para_devs.jpeg)
 
