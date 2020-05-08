@@ -14,8 +14,9 @@ Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Am
 
 
 
-## Agenda
-- Dia 08 de Maio de 2020 - **Introdução ao Jenkins** - Thiago Medeiros WIPRO/MASTERCARD [ **Link Em Breve- #5**](#)
+
+## Agenda 
+- 15/05/2020 - **Introdução ao Jenkins** - Thiago Medeiros WIPRO/MASTERCARD [ **Link Em Breve- #5**](#)
 - 22/05/2020 - **A Transformação Digital e seus impactos** - Lutiano Silva - ABEP-TIC e PRODAP
 - 29/05/2020 - **Oportunidades para o mercado de software no Amapá** - MSB Tecnologia - Adolfo e Fred
 - 05/06/2020 - **Programação Aplicada a Redes de Computadores** - Professor Thiego Nunes - IFAP
