@@ -6,17 +6,17 @@ Este é o ponto inicial para se unir e contribuir com código, artigos, meetups,
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 # Próximo Meetup
-- Dia 08 de Maio de 2020 - **Scraping e WebScraping com Pythons** - Paulo de Tarso - MP-AP[ **Live no Youtube- #4**](https://www.youtube.com/channel/UCCgB1pT_t3PGETzszNazoQQ)
+- 15/05/2020 - **Introdução ao Jenkins** - Thiago Medeiros WIPRO/MASTERCARD [ **Live no Youtube- #5**](https://www.youtube.com/watch?v=FmdF5rxA0BQ)
 
 
-![image](https://raw.githubusercontent.com/amapadev/amapadev.github.io/master/img/webscraping.jpeg)
+
+![image](https://raw.githubusercontent.com/amapadev/amapadev.github.io/master/img/jenkins.jpeg)
 
 
 
 
 
 ## Agenda 
-- 15/05/2020 - **Introdução ao Jenkins** - Thiago Medeiros WIPRO/MASTERCARD [ **Link Em Breve- #5**](#)
 - 22/05/2020 - **A Transformação Digital e seus impactos** - Lutiano Silva - ABEP-TIC e PRODAP
 - 29/05/2020 - **Oportunidades para o mercado de software no Amapá** - MSB Tecnologia - Adolfo e Fred
 - 05/06/2020 - **Programação Aplicada a Redes de Computadores** - Professor Thiego Nunes - IFAP
@@ -24,7 +24,8 @@ Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Am
 - 19/06/2020 - **Introdução ao Ruby on Rails** - Fábio Santos - OrçaFascio
 
 ### Meetups
-- Dia 31 de Abril de 2020 - [ **Python para Desenvolvedores #3 Clique aqui para participar #3** ](https://www.youtube.com/watch?v=MLqlgps8CqA)
+- Dia 08 de Maio de 2020 - **Scraping e WebScraping com Pythons** - Paulo de Tarso - MP-AP[ **Live no Youtube- #4**](https://www.youtube.com/watch?v=DktLbsBYdOk)
+- Dia 31 de Abril de 2020 - [ **Python para Desenvolvedores #3** ](https://www.youtube.com/watch?v=MLqlgps8CqA)
 - Dia 30 de nov. de 2019  [ **Docker para Desenvolvedores - #2**](https://www.youtube.com/watch?v=KJ22FQFD2S4)
 - Dia 23 de nov. de 2019  [ **Introdução ao Airflow**](https://www.youtube.com/watch?v=Dik5-_NYAA0&feature=youtu.be)
 
