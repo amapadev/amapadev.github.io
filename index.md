@@ -6,14 +6,13 @@ Este é o ponto inicial para se unir e contribuir com código, artigos, meetups,
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
 # Próximo Meetup
-- 05/06/2020 - [**Programação Aplicada a Redes de Computadores**](https://www.youtube.com/watch?v=P-Ni2j8JqS0) - Professor Thiego Nunes - IFAP e Leandro Guida - Desenvolvedor Ruby 
+- 19/06/2020 - **Introdução ao Spring MVC** - Professor Thiago Pinheiro - UNIFAP
 
-![image](https://raw.githubusercontent.com/amapadev/amapadev.github.io/master/img/programacao_redes.jpeg)
 
 
 ## Agenda 
-- 12/06/2020 - **Introdução ao Spring MVC** - Professor Thiago Pinheiro - UNIFAP
-- 19/06/2020 - **Introdução ao Ruby on Rails** - Fábio Santos - OrçaFascio
+- 19/06/2020 - **Introdução ao Spring MVC** - Professor Thiago Pinheiro - UNIFAP
+- 26/06/2020 - **Introdução ao Ruby on Rails** - Fábio Santos - OrçaFascio
 
 ### Meetups
 - 29/05/2020 - [**Oportunidades para o mercado de software no Amapá**](https://www.youtube.com/watch?v=Bxx7j7TOefI) - MSB Tecnologia - Adolfo e Fred
