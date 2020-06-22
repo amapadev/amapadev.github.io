@@ -5,16 +5,18 @@ Bem vindo ao Amapá Dev, a comunidade de programadores do Amapá!
 Este é o ponto inicial para se unir e contribuir com código, artigos, meetups, conversas, e conteúdos que envolvam tecnologia, programação e áreas relacionadas.
 
 Aqui estão artigos escritos e meetups realizados pelos membros da comunidade Amapá Dev
+
+### Conheça alguns de nossos membros
+[Membros da Comunidade](https://amapadev.github.io/devs/).
 # Próximo Meetup
-- 19/06/2020 - **Introdução ao Spring MVC** - Professor Thiago Pinheiro - UNIFAP
+- 26/06/2020 - **Introdução ao Ruby on Rails** - Fábio Santos - OrçaFascio
 
 
 
 ## Agenda 
-- 19/06/2020 - **Introdução ao Spring MVC** - Professor Thiago Pinheiro - UNIFAP
-- 26/06/2020 - **Introdução ao Ruby on Rails** - Fábio Santos - OrçaFascio
 
 ### Meetups
+- 19/06/2020 - [**Introdução ao Spring MVC**](https://www.youtube.com/watch?v=9z4ywihGcyk) - Professor Thiago Pinheiro - UNIFAP
 - 29/05/2020 - [**Oportunidades para o mercado de software no Amapá**](https://www.youtube.com/watch?v=Bxx7j7TOefI) - MSB Tecnologia - Adolfo e Fred
 - 22/05/2020 - [**A Transformação Digital e seus impactos**](https://www.youtube.com/watch?v=5qGciYjlS3o) - Lutiano Silva - ABEP-TIC e PRODAP
 - Dia 08 de Maio de 2020 - **Scraping e WebScraping com Pythons** - Paulo de Tarso - MP-AP[ **Live no Youtube- #4**](https://www.youtube.com/watch?v=DktLbsBYdOk)
